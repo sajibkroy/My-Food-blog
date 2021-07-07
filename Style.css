@@ -86,9 +86,11 @@ section {
 
 #footer {
     display: inline-block;
-    width: 100%;
+    width: 92%;
     height: 50px;
-    margin-right: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 25px;
     background-color: rgb(12, 3, 3);
     padding: 30px;
     padding-right: 30px;
